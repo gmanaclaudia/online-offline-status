@@ -6,9 +6,9 @@ Identificar quando o servidor está online ou offline
 
 # Links
 
-Link para o seminário:
+Link para o seminário
 
-Link para exemplo publicado:
+[Link para exemplo publicado](https://gmanaclaudia.github.io/online-offline-status/)
 
 # Créditos
 
