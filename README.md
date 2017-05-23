@@ -6,9 +6,9 @@ Identificar quando o servidor está online ou offline
 
 # Links
 
-Link para o seminário
+[Link para o seminário](https://gmanaclaudia.github.io/online-offline-status/seminario/apresentacao.html#/)
 
-[Link para exemplo publicado](https://gmanaclaudia.github.io/online-offline-status/)
+[Link para exemplo publicado]( https://fegemo.github.io/cefet-web-weblot/apis/online-offline-status/)
 
 # Créditos
 
